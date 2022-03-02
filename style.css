@@ -739,10 +739,10 @@ img {
   margin-top: 80px;
 }
 
-/* works
+/* contact-page
 ===================================== */
 #contact {
-  background: url(/img/contact-bgi@2x.jpg) center/cover no-repeat;
+  background: url(contact-bgi@2x.jpg) center/cover no-repeat;
   margin: 0 auto;
   padding: 100px 15px 40px;
 }
